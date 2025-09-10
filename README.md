@@ -1,1 +1,1 @@
-# coursera_module_5
+# module-5
